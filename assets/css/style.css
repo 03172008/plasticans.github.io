@@ -25,6 +25,14 @@ p {
    font-size: 1.6rem;
   color: #000000;
   line-height: 1.5;
+}
+
+.tabcontent { 
+  font-family: var(--font-stack);
+   font-size: 1.6rem;
+  color: #000000;
+  line-height: 1.5;
+}
 
 a {
   text-decoration: none;
