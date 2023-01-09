@@ -20,6 +20,12 @@
   line-height: 1.5;
 }
 
+p { 
+  font-family: var(--font-stack);
+   font-size: 1.6rem;
+  color: #000000;
+  line-height: 1.5;
+
 a {
   text-decoration: none;
   font-family: var(--font-stack);
